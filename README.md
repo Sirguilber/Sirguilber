@@ -1,5 +1,6 @@
 # 💫 About Me:
 🌱I'm starting to use Git and Github
+"Life is like a GitHub repo, nothing changes until you *commit*
 
 
 # 💻 Tech Stack:
